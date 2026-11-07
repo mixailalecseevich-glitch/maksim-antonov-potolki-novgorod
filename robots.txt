@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://mixailalecseevich-glitch.github.io/maksim-antonov-potolki-novgorod/sitemap.xml
